@@ -1,4 +1,3 @@
-# buildremotepmoguide
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -1262,7 +1261,7 @@
 <section class="section">
   <div class="page">
     <div class="section-label">Section 03</div>
-    <h2 class="section-title">Governance Frameworks<br>for Remote PMOs</h2>
+    <h2 class="section-title">Governance Frameworks for Remote PMOs</h2>
     <p class="section-desc">Remote PMOs require explicit governance that co-located teams take for granted. Build these structures before you need them.</p>
     <div class="framework-grid">
       <div class="fw-card">
@@ -1337,7 +1336,7 @@
 <section class="section section-dark">
   <div class="page">
     <div class="section-label">Section 04</div>
-    <h2 class="section-title">The Remote PMO<br>Technology Stack</h2>
+    <h2 class="section-title">The Remote PMO Technology Stack</h2>
     <p class="section-desc">Tools don't create execution discipline — but the right stack makes discipline easier to sustain. Choose tools that fit your team's maturity and scale with your complexity.</p>
     <div class="tech-cols">
       <div class="tech-col">
@@ -1400,7 +1399,7 @@
 <section class="section section-alt">
   <div class="page">
     <div class="section-label">Section 05</div>
-    <h2 class="section-title">Your 90-Day Remote PMO<br>Launch Roadmap</h2>
+    <h2 class="section-title">Your 90-Day Remote PMO Launch Roadmap</h2>
     <p class="section-desc">Stand up your PMO with intention, not improvisation. This phased approach builds the foundation before adding complexity.</p>
     <div class="roadmap">
       <div class="roadmap-phase">
@@ -1471,7 +1470,7 @@
 <section class="section section-dark">
   <div class="page">
     <div class="section-label">Section 06</div>
-    <h2 class="section-title">Certifications That Build<br>Remote PMO Credibility</h2>
+    <h2 class="section-title">Certifications That Build Remote PMO Credibility</h2>
     <p class="section-desc">The right credentials signal that your team has internalized industry standards — not just learned the vocabulary. Prioritize these for your PMO hires and existing team development.</p>
     <div class="cert-grid">
       <div class="cert-card">
@@ -1527,7 +1526,7 @@
 <section class="section">
   <div class="page">
     <div class="section-label">Section 07</div>
-    <h2 class="section-title">7 Mistakes That Sink<br>Remote PMOs</h2>
+    <h2 class="section-title">7 Mistakes That Sink Remote PMOs</h2>
     <p class="section-desc">Most remote PMO failures aren't caused by bad PMs — they're caused by bad architecture. Recognize these patterns before they become your reality.</p>
     <div class="mistakes-grid">
       <div class="mistake-card">
