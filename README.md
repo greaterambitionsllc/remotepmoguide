@@ -1003,7 +1003,7 @@
 <section class="section">
   <div class="page">
     <div class="section-label">Section 01</div>
-    <h2 class="section-title">Why a Remote PMO Is a<br>Strategic Imperative</h2>
+    <h2 class="section-title">Why a Remote PMO Is a Strategic Imperative</h2>
     <p class="section-desc">A well-structured remote PMO is the execution engine of your organization — providing visibility, standardization, and strategic alignment across every distributed team.</p>
     <div class="pillars-grid">
       <div class="pillar">
